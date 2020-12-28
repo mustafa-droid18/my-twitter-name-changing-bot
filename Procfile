@@ -1,1 +1,1 @@
-worker: python ameer-app.py
+worker: python mustafa.py
